@@ -9,3 +9,6 @@ git test
     5.2) git commit -a -m "update readme" # не нужно делать git add
 6. git push
 7. git pull # собирает последние обновления которые есть
+
+100. git branch
+101. git checkout -b 'fixes'
